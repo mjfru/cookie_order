@@ -1,0 +1,32 @@
+* {
+    margin: 0px auto;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.subhead {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    font-family: 'Oxygen', sans-serif;
+    width: 30%;
+}
+
+#order_table {
+    width: 40%;
+    border: 4px solid grey;
+    margin-top: 20px;
+    font-family: monospace;
+}
+
+th {
+    font-family: 'Oxygen', sans-serif;
+}
+
+#edit_link {
+    color:whitesmoke;
+}

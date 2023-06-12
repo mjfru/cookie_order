@@ -1,0 +1,40 @@
+* {
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    border: 2px solid;
+    margin-top: 10px;
+    background-color: #d1e7dd;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.nav_buttons {
+    display: flex;
+    flex-direction: row;
+    align-items:baseline;
+}
+
+.nav_buttons a {
+    margin-left: 5px;
+}
